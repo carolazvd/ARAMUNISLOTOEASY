@@ -1,27 +1,21 @@
 # Lotofácil Simples
 
-Este é um programa simples em Java chamado "Lotofácil". Ele permite que o usuário faça diferentes tipos de apostas e verifica se eles ganharam um prêmio.
+Este é um programa simples em Java. Permite que o usuário faça diferentes tipos de apostas e verifica se eles ganharam um prêmio.
 
 # Como Executar
 
-Certifique-se de que você tenha o Java instalado no seu sistema antes de executar o programa.
+Ter o Java instalado no seu sistema antes de executar o programa.
 
 1. Transfira este repositório para o seu computador:
 
 git clone https://github.com/carolazvd/ARAMUNISLOTOEASY.git
 
-Navegue até o diretório do projeto:
-
-cd ARAMUNISLOTOEASY
-Compile o programa Java:
-
-SLOTOFACIL.java
 Execute o programa:
 
 java ARAMUNISLOTOFACIL
 
 
-Como Usar
+# Como Usar
 O programa oferece as seguintes opções no menu:
 
 Apostar de 0 a 100: Você pode apostar em um número de 0 a 100. Se acertar, você ganha R$ 1.000,00 reais.
