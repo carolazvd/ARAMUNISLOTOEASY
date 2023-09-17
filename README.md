@@ -12,7 +12,7 @@ git clone https://github.com/carolazvd/ARAMUNISLOTOEASY.git
 
 Execute o programa:
 
-java ARAMUNISLOTOFACIL
+java ARAMUNISLOTOEASY
 
 
 # Como Usar
